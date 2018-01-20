@@ -54,5 +54,5 @@ deploy:
        cmd: /pipeline/source/gogo-service
        port: "8080"
        tag: latest
-       repository: chandan-singh/gogo-service
+       repository: chandans/gogo-service
        registry: https://registry.hub.docker.com
